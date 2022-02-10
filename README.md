@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erkanozhan
 - 👀 I’m interested in Artificial Intelligence, Data Mining and computer science.
-- 🌱 I’m currently learning R.
+- 🌱 I’m currently working on optimization problems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me erkanozhan@gmail.com or www.erkanhoca.com
 
